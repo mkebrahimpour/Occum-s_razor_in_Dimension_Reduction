@@ -1,0 +1,18 @@
+Thie code is provided by authors of the paper:
+ Ebrahimpour Et al. Occam's razor in dimension reduction: using reduced
+ row Echelon form for finding linear independent features in high
+ dimensional microarray datasets, Eng Appl. Artif. Intel.(2017)
+
+This code belongs to the aforementined method which can be used for feature
+subset selection
+--------------------------------------------------------------------
+ Copyright (c) 2016 by Mohammad Kazem Ebrahimpour, Masoumeh Zare,Mahdi
+ Eftekhari and Gholamreza Aghamolaei
+--------------------------------------------------------------------
+
+====================================================================
+Quick hints for runnig the code:
+1-open the demo
+2-load your own dataset
+3-run the algorithm (f5)
+====================================================================
